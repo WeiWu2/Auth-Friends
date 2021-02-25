@@ -55,7 +55,7 @@ export default function Login(props) {
                <p style={{color: 'red', fontSize: '12px'}}>{loginValues.error}</p>
               <button>Login</button>
             </form>
-            <p>Lambda School {'i<3Lambd4'}</p>
+        
         </div>
     )
 }
